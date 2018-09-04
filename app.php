@@ -1,1 +1,1 @@
-<? echo 'Hola22!';
+<? echo 'Hola2!';
