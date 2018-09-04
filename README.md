@@ -1,8 +1,6 @@
 Trabajo de proyecto
 ==================
 
+Diapositiva de git:
 
-
-
-
-Cambios de Fede.
+https://docs.google.com/presentation/d/1AOUJV2qHx1xExG9MC7AeEvknejs7bKAH42yU6RTcc9E/edit?usp=sharing
