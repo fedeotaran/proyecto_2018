@@ -1,1 +1,3 @@
-<? echo 'Hola Federico';
+<?
+  echo 'Hola Federico\n';
+  echo 'Hola2!';
