@@ -1,1 +1,1 @@
-<? echo "Othen"
+<? echo "Other"
